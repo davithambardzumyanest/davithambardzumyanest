@@ -4,6 +4,13 @@ Welcome to my GitHub!
 
 ![Typing Man](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
+![Green Code Stream](https://media.giphy.com/media/tXL4FHPSnVJ0A/giphy.gif)
+
+![Typing Console](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
+
+<img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" alt="Terminal Scroll" width="100%" />
+
+
 I'm a backend-leaning full stack developer who builds solid, scalable systems using:
 - ⚙️ **PHP Frameworks**: Symfony · Laravel · CodeIgniter  
 - 🚀 **JavaScript (Node)**: NestJS  
