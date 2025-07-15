@@ -22,4 +22,3 @@ I love clean architecture, efficient code, and turning complex business needs in
     </td>
   </tr>
 </table>
-
