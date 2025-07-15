@@ -4,6 +4,8 @@
 
 ![Banner](https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif)
 
+![Banner](https://media.giphy.com/media/tXL4FHPSnVJ0A/giphy.gif)
+
 
 
 # 👨‍💻 Hey, I'm David
