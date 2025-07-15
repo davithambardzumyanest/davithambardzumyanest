@@ -6,6 +6,7 @@ Welcome to my GitHub!
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Typing Man" width="100%" />
 
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Typing Man" height="150px" style="width: auto;" />
 
 I'm a backend-leaning full stack developer who builds solid, scalable systems using:
 - ⚙️ **PHP Frameworks**: Symfony · Laravel · CodeIgniter  
