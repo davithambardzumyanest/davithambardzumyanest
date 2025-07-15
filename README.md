@@ -1,26 +1,8 @@
-![Typing Man](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
-
-
 # 👨‍💻 Hey, I'm David
 
 Welcome to my GitHub!
 
-<div style="display: flex; align-items: center; gap: 20px;">
-
-  <!-- Left GIF -->
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Typing Man" width="300" />
-
-  <!-- Center Text -->
-  <div style="flex: 1;">
-    <h1 style="font-size: 32px; margin: 0;">👨‍💻 Hey, I'm David</h1>
-    <p style="font-size: 18px; margin-top: 8px;">Welcome to my GitHub!</p>
-  </div>
-
-  <!-- Right GIF -->
-  <img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" alt="Coding Glow" width="300" />
-
-</div>
-
+![Typing Man](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 I'm a backend-leaning full stack developer who builds solid, scalable systems using:
 - ⚙️ **PHP Frameworks**: Symfony · Laravel · CodeIgniter  
