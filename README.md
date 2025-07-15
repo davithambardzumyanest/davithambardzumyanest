@@ -22,3 +22,10 @@ I love clean architecture, efficient code, and turning complex business needs in
     </td>
   </tr>
 </table>
+
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="300" alt="Code Explosion GIF" />
+</p>
+
+
