@@ -2,7 +2,7 @@
 
 Welcome to my GitHub!
 
-![Typing Man](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+<!-- ![Typing Man](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif) -->
 
 I'm a backend-leaning full stack developer who builds solid, scalable systems using:
 - ⚙️ **PHP Frameworks**: Symfony · Laravel · CodeIgniter  
