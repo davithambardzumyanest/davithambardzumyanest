@@ -3,7 +3,7 @@
 Welcome to my GitHub!
 
 ![Typing Man](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Typing Man" />
+<img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" width="200" alt="Coding Glow" />
 
 
 <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" alt="Terminal Scroll" width="100%" />
