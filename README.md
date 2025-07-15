@@ -16,11 +16,10 @@ Welcome to my GitHub!
     <p style="font-size: 18px; margin-top: 8px;">Welcome to my GitHub!</p>
   </div>
 
-  <!-- Right GIF (matches style) -->
+  <!-- Right GIF -->
   <img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" alt="Coding Glow" width="300" />
 
 </div>
-
 
 
 I'm a backend-leaning full stack developer who builds solid, scalable systems using:
