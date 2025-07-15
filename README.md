@@ -1,5 +1,8 @@
 ![Typing Man](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
+![Banner](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
+
+
 # 👨‍💻 Hey, I'm David
 
 Welcome to my GitHub!
