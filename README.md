@@ -6,17 +6,14 @@
 Welcome to my GitHub!
 
 
-<table>
-  <tr>
-    <td>
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Typing Man" />
-    </td>
-    <td>
-      <h1>👨‍💻 Hey, I'm David</h1>
-      <p>Welcome to my GitHub!</p>
-    </td>
-  </tr>
-</table>
+<div style="display: flex; align-items: center; gap: 20px;">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Typing Man" width="300" />
+
+  <div>
+    <h1 style="font-size: 32px;">👨‍💻 Hey, I'm David</h1>
+    <p style="font-size: 18px;">Welcome to my GitHub!</p>
+  </div>
+</div>
 
 
 I'm a backend-leaning full stack developer who builds solid, scalable systems using:
