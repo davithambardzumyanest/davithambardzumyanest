@@ -5,7 +5,7 @@
 
 <table>
   <tr>
-    <td width="60%" valign="top">
+    <td width="100%" valign="top">
 
 I'm a backend-leaning full stack developer who builds solid, scalable systems using:  
 - ⚙️ **PHP Frameworks**: Symfony · Laravel · CodeIgniter  
@@ -34,9 +34,6 @@ I love clean architecture, efficient code, and turning complex business needs in
 - 🛡️ **Security & Optimization**: Caching · Performance Tuning · Vulnerability Detection  
 - 🧬 **Version Control & OS**: Git · Linux · Windows
 
-  </td>
-  <td width="40%" align="center">
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
   </td>
   </tr>
 </table>
