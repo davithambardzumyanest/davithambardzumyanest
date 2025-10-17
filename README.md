@@ -1,11 +1,7 @@
-<p align="center">
-  <h1 align="center">👨‍💻 Hey, I'm David</h1>
-  <h3 align="center">Welcome to my GitHub!</h3>
-</p>
+<h1 align="center">👨‍💻 Hey, I'm David</h1>
+<h3 align="center">Welcome to my GitHub!</h3>
 
-<table>
-  <tr>
-    <td width="100%" valign="top">
+---
 
 I'm a backend-leaning full stack developer who builds solid, scalable systems using:  
 - ⚙️ **PHP Frameworks**: Symfony · Laravel · CodeIgniter  
@@ -17,7 +13,8 @@ I love clean architecture, efficient code, and turning complex business needs in
 
 ---
 
-🛠️ **Core Skills & Technologies**  
+### 🛠️ Core Skills & Technologies
+
 - ✔️ **Languages & Frameworks**: PHP (Symfony), Python (FastAPI/Django), JavaScript (NestJS)  
 - 🧪 **Testing**: Unit, Integration, Acceptance testing · TDD  
 - 🔁 **CI/CD & DevOps**: Jenkins · CI/CD pipelines · Deployment  
@@ -32,21 +29,12 @@ I love clean architecture, efficient code, and turning complex business needs in
 - 🔄 **Data Transfer**: JSON · XML  
 - 🧠 **Agile**: Scrum · Kanban  
 - 🛡️ **Security & Optimization**: Caching · Performance Tuning · Vulnerability Detection  
-- 🧬 **Version Control & OS**: Git · Linux · Windows
-
-  </td>
-  </tr>
-</table>
+- 🧬 **Version Control & OS**: Git · Linux · Windows  
 
 ---
 
-<table>
-  <tr>
-    <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=davithambardzumyanest&show_icons=true&theme=tokyonight" />
-    </td>
-    <td>
-      <img align="center" src="https://streak-stats.demolab.com?user=davithambardzumyanest&theme=tokyonight" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=davithambardzumyanest&show_icons=true&theme=tokyonight" />
+  <br />
+  <img src="https://streak-stats.demolab.com?user=davithambardzumyanest&theme=tokyonight" />
+</p>
